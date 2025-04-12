@@ -1,0 +1,6 @@
+C:\Users\pubgi\Desktop\FortuneWheel\FotruneWheel\Connection\bin\Debug\Connection.dll
+C:\Users\pubgi\Desktop\FortuneWheel\FotruneWheel\Connection\bin\Debug\Connection.pdb
+C:\Users\pubgi\Desktop\FortuneWheel\FotruneWheel\Connection\obj\Debug\Connection.csproj.AssemblyReference.cache
+C:\Users\pubgi\Desktop\FortuneWheel\FotruneWheel\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\Users\pubgi\Desktop\FortuneWheel\FotruneWheel\Connection\obj\Debug\Connection.dll
+C:\Users\pubgi\Desktop\FortuneWheel\FotruneWheel\Connection\obj\Debug\Connection.pdb
